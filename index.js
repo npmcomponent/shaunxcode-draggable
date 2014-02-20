@@ -2,7 +2,7 @@
 (function() {
   var Emitter;
 
-  Emitter = require("emitter");
+  Emitter = require('component-emitter');
 
   module.exports = function(element) {
     var emitter, initEvent, originX, originY, startX, startY;

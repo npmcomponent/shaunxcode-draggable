@@ -1,0 +1,12 @@
+{
+  "name": "shaunxcode-draggable",
+  "description": "create draggable elements",
+  "version": "0.0.1",
+  "keywords": [
+    "tools",
+    "interaction"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  }
+}
